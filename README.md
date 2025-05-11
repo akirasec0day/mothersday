@@ -2,7 +2,7 @@
 
 A beautiful animated website to celebrate Mother's Day with floating hearts, elegant design, and a heartfelt message.  
 
-![Preview](preview.gif) (https://github.com/akirasec0day/mothersday/screenshot/screenshot.png)
+![Preview](https://github.com/akirasec0day/mothersday/blob/master/screenshot/screenshot.png)
 
 ## ✨ Features  
 - Pink & white themed UI with smooth animations  
@@ -14,4 +14,4 @@ A beautiful animated website to celebrate Mother's Day with floating hearts, ele
 ## 🛠️ Technologies Used  
 - HTML5  
 - CSS3 (Animations, Flexbox)  
-- JavaScript (Canvas API for floating effects)  
+- JavaScript (Canvas API for floating effects)
